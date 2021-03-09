@@ -25,9 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update 上传第一个文章内容">
+    <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update 位运算">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/位运算.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/位运算.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,8 @@
       <workItem from="1614762363982" duration="774000" />
       <workItem from="1614834837063" duration="5392000" />
       <workItem from="1614913163762" duration="1368000" />
-      <workItem from="1615167680112" duration="8476000" />
+      <workItem from="1615167680112" duration="8853000" />
+      <workItem from="1615269794571" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615183671205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update 位运算">
+      <created>1615205438696</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615205438696</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +137,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
     <MESSAGE value="update 上传第一个文章内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 上传第一个文章内容" />
+    <MESSAGE value="update 位运算" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 位运算" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2153" y="230" key="#Inspections" timestamp="1614838625359">
@@ -154,11 +162,12 @@
     </state>
     <state x="2206" y="228" key="RollbackChangesDialog/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614836863888" />
     <state x="2206" y="228" key="RollbackChangesDialog/1680.23.1680.1027/0.23.1680.948@1680.23.1680.1027" timestamp="1614838924960" />
-    <state x="2120" y="223" key="Vcs.Push.Dialog.v2" timestamp="1615183678441">
-      <screen x="1680" y="23" width="1680" height="951" />
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1615205441728">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="2120" y="239" key="Vcs.Push.Dialog.v2/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614762515813" />
     <state x="2120" y="223" key="Vcs.Push.Dialog.v2/1680.23.1680.951/0.23.1680.1027@1680.23.1680.951" timestamp="1615183678441" />
+    <state x="440" y="239" key="Vcs.Push.Dialog.v2/1680.23.1680.957/0.23.1680.1027@0.23.1680.1027" timestamp="1615205441728" />
     <state x="1815" y="171" width="1409" height="747" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1614839368442">
       <screen x="1680" y="23" width="1680" height="1027" />
     </state>
