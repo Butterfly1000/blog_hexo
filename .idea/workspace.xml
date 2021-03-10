@@ -19,14 +19,16 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update 位运算">
+    <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/位运算.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/位运算.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,19 +50,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/assets" />
+      <recent name="$PROJECT_DIR$/source/_posts/asset" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/themes/yilia/source/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,7 +85,8 @@
       <workItem from="1614834837063" duration="5392000" />
       <workItem from="1614913163762" duration="1368000" />
       <workItem from="1615167680112" duration="8853000" />
-      <workItem from="1615269794571" duration="315000" />
+      <workItem from="1615269794571" duration="2201000" />
+      <workItem from="1615353937382" duration="5621000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -104,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615205438696</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1615270401653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615270401653</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,19 +127,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -135,20 +135,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update" />
     <MESSAGE value="update 上传第一个文章内容" />
     <MESSAGE value="update 位运算" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 位运算" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2153" y="230" key="#Inspections" timestamp="1614838625359">
       <screen x="1680" y="23" width="1680" height="1027" />
     </state>
     <state x="2153" y="230" key="#Inspections/1680.23.1680.1027/0.23.1680.948@1680.23.1680.1027" timestamp="1614838625359" />
-    <state x="2300" y="250" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1614839406925">
-      <screen x="1680" y="23" width="1680" height="1027" />
+    <state x="2300" y="235" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615363263973">
+      <screen x="1680" y="23" width="1680" height="959" />
     </state>
     <state x="2300" y="250" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1680.1027/0.23.1680.948@1680.23.1680.1027" timestamp="1614839406925" />
+    <state x="2300" y="235" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1680.23.1680.959/0.23.1680.1027@1680.23.1680.959" timestamp="1615363263973" />
     <state x="2263" y="406" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1614839072411">
       <screen x="1680" y="23" width="1680" height="1027" />
     </state>
@@ -162,11 +163,12 @@
     </state>
     <state x="2206" y="228" key="RollbackChangesDialog/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614836863888" />
     <state x="2206" y="228" key="RollbackChangesDialog/1680.23.1680.1027/0.23.1680.948@1680.23.1680.1027" timestamp="1614838924960" />
-    <state x="440" y="239" key="Vcs.Push.Dialog.v2" timestamp="1615205441728">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state x="2120" y="223" key="Vcs.Push.Dialog.v2" timestamp="1615368786641">
+      <screen x="1680" y="23" width="1680" height="951" />
     </state>
     <state x="2120" y="239" key="Vcs.Push.Dialog.v2/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614762515813" />
-    <state x="2120" y="223" key="Vcs.Push.Dialog.v2/1680.23.1680.951/0.23.1680.1027@1680.23.1680.951" timestamp="1615183678441" />
+    <state x="2120" y="222" key="Vcs.Push.Dialog.v2/1680.23.1680.948/0.23.1680.1027@1680.23.1680.948" timestamp="1615270406014" />
+    <state x="2120" y="223" key="Vcs.Push.Dialog.v2/1680.23.1680.951/0.23.1680.1027@1680.23.1680.951" timestamp="1615368786641" />
     <state x="440" y="239" key="Vcs.Push.Dialog.v2/1680.23.1680.957/0.23.1680.1027@0.23.1680.1027" timestamp="1615205441728" />
     <state x="1815" y="171" width="1409" height="747" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1614839368442">
       <screen x="1680" y="23" width="1680" height="1027" />
