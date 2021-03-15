@@ -27,8 +27,6 @@
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/位运算.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/位运算.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -86,7 +84,9 @@
       <workItem from="1614913163762" duration="1368000" />
       <workItem from="1615167680112" duration="8853000" />
       <workItem from="1615269794571" duration="2201000" />
-      <workItem from="1615353937382" duration="5621000" />
+      <workItem from="1615353937382" duration="5866000" />
+      <workItem from="1615447199492" duration="510000" />
+      <workItem from="1615774775816" duration="3082000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615270401653</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1615368801764</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615368801764</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,12 +170,12 @@
     </state>
     <state x="2206" y="228" key="RollbackChangesDialog/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614836863888" />
     <state x="2206" y="228" key="RollbackChangesDialog/1680.23.1680.1027/0.23.1680.948@1680.23.1680.1027" timestamp="1614838924960" />
-    <state x="2120" y="223" key="Vcs.Push.Dialog.v2" timestamp="1615368786641">
+    <state x="2120" y="223" key="Vcs.Push.Dialog.v2" timestamp="1615368807478">
       <screen x="1680" y="23" width="1680" height="951" />
     </state>
     <state x="2120" y="239" key="Vcs.Push.Dialog.v2/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614762515813" />
     <state x="2120" y="222" key="Vcs.Push.Dialog.v2/1680.23.1680.948/0.23.1680.1027@1680.23.1680.948" timestamp="1615270406014" />
-    <state x="2120" y="223" key="Vcs.Push.Dialog.v2/1680.23.1680.951/0.23.1680.1027@1680.23.1680.951" timestamp="1615368786641" />
+    <state x="2120" y="223" key="Vcs.Push.Dialog.v2/1680.23.1680.951/0.23.1680.1027@1680.23.1680.951" timestamp="1615368807478" />
     <state x="440" y="239" key="Vcs.Push.Dialog.v2/1680.23.1680.957/0.23.1680.1027@0.23.1680.1027" timestamp="1615205441728" />
     <state x="1815" y="171" width="1409" height="747" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1614839368442">
       <screen x="1680" y="23" width="1680" height="1027" />
