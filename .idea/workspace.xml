@@ -94,7 +94,9 @@
       <workItem from="1617103978064" duration="533000" />
       <workItem from="1617759863716" duration="726000" />
       <workItem from="1618490035539" duration="960000" />
-      <workItem from="1619439674923" duration="573000" />
+      <workItem from="1619439674923" duration="1061000" />
+      <workItem from="1620904386978" duration="262000" />
+      <workItem from="1621337681455" duration="2825000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -145,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616588827024</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update article">
+      <created>1619440986096</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619440986096</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,10 +218,11 @@
     </state>
     <state x="2206" y="228" key="RollbackChangesDialog/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614836863888" />
     <state x="2206" y="228" key="RollbackChangesDialog/1680.23.1680.1027/0.23.1680.948@1680.23.1680.1027" timestamp="1614838924960" />
-    <state x="503" y="228" key="Vcs.Push.Dialog.v2" timestamp="1616588845082">
-      <screen x="0" y="23" width="1920" height="977" />
+    <state x="503" y="229" key="Vcs.Push.Dialog.v2" timestamp="1619440989747">
+      <screen x="0" y="23" width="1920" height="983" />
     </state>
     <state x="503" y="228" key="Vcs.Push.Dialog.v2/0.23.1920.977/-1920.23.1920.1057@0.23.1920.977" timestamp="1616588845082" />
+    <state x="503" y="229" key="Vcs.Push.Dialog.v2/0.23.1920.983/-1920.23.1920.1057@0.23.1920.983" timestamp="1619440989747" />
     <state x="503" y="230" key="Vcs.Push.Dialog.v2/0.23.1920.985/-1920.23.1920.1057@0.23.1920.985" timestamp="1616412164908" />
     <state x="2120" y="239" key="Vcs.Push.Dialog.v2/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614762515813" />
     <state x="2120" y="222" key="Vcs.Push.Dialog.v2/1680.23.1680.948/0.23.1680.1027@1680.23.1680.948" timestamp="1615270406014" />
@@ -228,11 +238,12 @@
     <state x="2248" y="252" width="615" height="490" key="find.popup/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614836239009" />
     <state x="2248" y="252" width="615" height="490" key="find.popup/1680.23.1680.1027/0.23.1680.948@1680.23.1680.1027" timestamp="1614839242087" />
     <state x="2248" y="235" width="615" height="490" key="find.popup/1680.23.1680.953/0.23.1680.1027@1680.23.1680.953" timestamp="1615182281367" />
-    <state x="691" y="358" width="897" height="367" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1619440872442">
-      <screen x="0" y="23" width="1920" height="983" />
+    <state x="691" y="360" width="897" height="367" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1621338003837">
+      <screen x="0" y="23" width="1920" height="990" />
     </state>
     <state x="691" y="358" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1920.983/-1920.23.1920.1057@0.23.1920.983" timestamp="1619440872442" />
     <state x="691" y="359" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1920.987/-1920.23.1920.1057@0.23.1920.987" timestamp="1619440557660" />
+    <state x="691" y="360" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1920.990/-1920.23.1920.1057@0.23.1920.990" timestamp="1621338003837" />
     <state x="2285" y="458" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1680.23.1680.1027/0.23.1680.947@1680.23.1680.1027" timestamp="1614762630016" />
     <state x="2285" y="373" width="897" height="367" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1680.23.1680.1027/0.23.1680.948@1680.23.1680.1027" timestamp="1614839356612" />
     <state x="2285" y="347" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1680.23.1680.951/0.23.1680.1027@1680.23.1680.951" timestamp="1615183439413" />
