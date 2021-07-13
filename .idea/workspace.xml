@@ -27,6 +27,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update article">
+      <change afterPath="$PROJECT_DIR$/source/_posts/因选秀而引发的思考/zs.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/因选秀而引发的思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/因选秀而引发的思考.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +54,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/因选秀而引发的思考" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -100,7 +105,7 @@
       <workItem from="1621393287079" duration="819000" />
       <workItem from="1622431838560" duration="1129000" />
       <workItem from="1625539299271" duration="3198000" />
-      <workItem from="1626142885235" duration="725000" />
+      <workItem from="1626142885235" duration="2113000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -179,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626143396644</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update article">
+      <created>1626143623409</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1626143623409</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,13 +229,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="update article" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="503" y="229" key="Vcs.Push.Dialog.v2" timestamp="1626143323826">
+    <state x="503" y="229" key="Vcs.Push.Dialog.v2" timestamp="1626143628094">
       <screen x="0" y="23" width="1920" height="981" />
     </state>
-    <state x="503" y="229" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.981@0.23.1920.981" timestamp="1626143323826" />
+    <state x="503" y="229" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.981@0.23.1920.981" timestamp="1626143628094" />
     <state x="503" y="229" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.983@0.23.1920.983" timestamp="1625541955348" />
     <state x="503" y="229" key="Vcs.Push.Dialog.v2/0.23.1920.983/-1920.23.1920.1057@0.23.1920.983" timestamp="1619440989747" />
     <state x="503" y="230" key="Vcs.Push.Dialog.v2/0.23.1920.990/-1920.23.1920.1057@0.23.1920.990" timestamp="1621340778521" />
+    <state x="726" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1626143566279">
+      <screen x="0" y="23" width="1920" height="981" />
+    </state>
+    <state x="726" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.23.1920.1057/0.23.1920.981@0.23.1920.981" timestamp="1626143566279" />
     <state x="626" y="266" width="615" height="490" key="find.popup" timestamp="1626142985773">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
