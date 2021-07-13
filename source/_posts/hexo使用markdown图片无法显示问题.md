@@ -17,18 +17,21 @@ hexo默认无法自动处理文章插入本地图片，需要通过扩展插件�
 由于hexo3版本后对很多插件支持有问题，hexo-asset-image插件在处理data.permalink链接时出现路径错误，把年月去掉了，导致最后生成的路径为%d/xxx/xxx需要对其做兼容处理。通过判断当前版本是否等于3的版本做不同的路径分割。
 
 在代码中加入：
-
+```
 var version = String(hexo.version).split('.');
-修改date.permalink处理：
+```
 
+修改`date.permalink`处理：
+```
 var link = data.permalink;  
 if(version.length > 0 && Number(version[0]) == 3) 
     var beginPos = getPosition(link, '/', 1) + 1; 
 else 
     var beginPos = getPosition(link, '/', 3) + 1;
+```
 重新生成静态文件即可正确显示。
 
-可直接安装已经修改过得插件npm install https://github.com/7ym0n/hexo-asset-image --sa。
+可直接安装已经修改过得插件`npm install https://github.com/7ym0n/hexo-asset-image --sa`。
 
 作者：菜鸡_快递到了
 链接：https://www.jianshu.com/p/3db6a61d3782
