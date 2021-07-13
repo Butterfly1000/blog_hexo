@@ -28,6 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update article">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,8 @@
       <workItem from="1621337681455" duration="3099000" />
       <workItem from="1621393287079" duration="819000" />
       <workItem from="1622431838560" duration="1129000" />
-      <workItem from="1625539299271" duration="2630000" />
+      <workItem from="1625539299271" duration="3198000" />
+      <workItem from="1626142885235" duration="358000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -164,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621340774386</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update article">
+      <created>1625541951693</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1625541951693</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,11 +211,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="update article" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="503" y="230" key="Vcs.Push.Dialog.v2" timestamp="1621340778521">
-      <screen x="0" y="23" width="1920" height="990" />
+    <state x="503" y="229" key="Vcs.Push.Dialog.v2" timestamp="1626143323826">
+      <screen x="0" y="23" width="1920" height="981" />
     </state>
+    <state x="503" y="229" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.981@0.23.1920.981" timestamp="1626143323826" />
+    <state x="503" y="229" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.983@0.23.1920.983" timestamp="1625541955348" />
     <state x="503" y="229" key="Vcs.Push.Dialog.v2/0.23.1920.983/-1920.23.1920.1057@0.23.1920.983" timestamp="1619440989747" />
     <state x="503" y="230" key="Vcs.Push.Dialog.v2/0.23.1920.990/-1920.23.1920.1057@0.23.1920.990" timestamp="1621340778521" />
+    <state x="626" y="266" width="615" height="490" key="find.popup" timestamp="1626142985773">
+      <screen x="0" y="23" width="1920" height="985" />
+    </state>
+    <state x="626" y="266" width="615" height="490" key="find.popup/-1920.23.1920.1057/0.23.1920.985@0.23.1920.985" timestamp="1626142985773" />
     <state x="691" y="358" width="897" height="367" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1625541215235">
       <screen x="0" y="23" width="1920" height="985" />
     </state>
