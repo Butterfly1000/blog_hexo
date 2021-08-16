@@ -40,4 +40,4 @@ npm install --save hexo-tag-aplayer
 
 mac端(`win端没有测试过`)控制不了音量大小，只能空过电脑或耳机条件。
 
-{% aplayer "U" "许杨玉琢" "https://music.163.com/song/media/outer/url?id=1475649128.mp3" "/yyzka.jpeg" "autoplay" %}
+{% aplayer "U" "许杨玉琢" "https://music.163.com/song/media/outer/url?id=1475649128.mp3" "/yyzka.jpeg" %}
