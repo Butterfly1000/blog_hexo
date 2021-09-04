@@ -27,8 +27,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update article">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo博客中插入音乐.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hexo博客中插入音乐.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/GO-包package和import.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/GO-包package和import.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/GO-控制结构if-else.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/GO-控制结构if-else.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/GO-数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/GO-数据类型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Go-控制结构for循环loop.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Go-控制结构for循环loop.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
