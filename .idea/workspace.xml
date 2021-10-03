@@ -27,10 +27,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update article">
-      <change beforePath="$PROJECT_DIR$/source/_posts/GO-包package和import.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/GO-包package和import.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/GO-控制结构if-else.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/GO-控制结构if-else.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/GO-数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/GO-数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Go-控制结构for循环loop.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Go-控制结构for循环loop.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab/d_g9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +59,9 @@
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1oyTW2qSdJgGdmID964SzjGINP1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,19 +70,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/网络掩码" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/Docker-部署gitlab" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PhpstormProjects\butterfly1000.github.io\source\_posts\Docker-部署gitlab" />
       <recent name="$PROJECT_DIR$/source/_posts/网络掩码" />
       <recent name="$PROJECT_DIR$/source/_posts/哈希算法" />
       <recent name="$PROJECT_DIR$/source/_posts/因选秀而引发的思考" />
       <recent name="$PROJECT_DIR$/public/assets" />
-      <recent name="$PROJECT_DIR$/source/_posts/asset" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
@@ -109,7 +125,21 @@
       <workItem from="1626142885235" duration="6330000" />
       <workItem from="1627264429641" duration="9806000" />
       <workItem from="1629040128137" duration="1955000" />
-      <workItem from="1630765852333" duration="126000" />
+      <workItem from="1630765852333" duration="1380000" />
+      <workItem from="1632142037621" duration="345000" />
+      <workItem from="1632142527351" duration="79000" />
+      <workItem from="1632142706256" duration="11000" />
+      <workItem from="1632142864735" duration="188000" />
+      <workItem from="1632143791769" duration="39000" />
+      <workItem from="1632143881212" duration="90000" />
+      <workItem from="1632144049077" duration="40000" />
+      <workItem from="1632144165445" duration="228000" />
+      <workItem from="1632144455848" duration="166000" />
+      <workItem from="1632144678429" duration="111000" />
+      <workItem from="1632144866388" duration="194000" />
+      <workItem from="1632145132982" duration="2087000" />
+      <workItem from="1633093914956" duration="1525000" />
+      <workItem from="1633181105523" duration="9305000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -237,7 +267,21 @@
       <option name="project" value="LOCAL" />
       <updated>1629041346298</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update article">
+      <created>1630766068568</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1630766068568</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update article">
+      <created>1630766241329</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1630766241329</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
