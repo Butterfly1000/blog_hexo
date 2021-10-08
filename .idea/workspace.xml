@@ -26,9 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update article">
-      <change afterPath="$PROJECT_DIR$/source/_posts/charles手机端捕获数据/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Redis数据库查看工具/r_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/yilia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/yilia/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/关于git撤回内容的思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/关于git撤回内容的思考.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,23 +52,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/网络掩码" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/Redis数据库查看工具" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/_posts/charles手机端捕获数据" />
-      <recent name="$PROJECT_DIR$/public" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/Redis数据库查看工具" />
       <recent name="$PROJECT_DIR$/source/_posts/网络掩码" />
       <recent name="$PROJECT_DIR$/source/_posts/哈希算法" />
       <recent name="$PROJECT_DIR$/source/_posts/因选秀而引发的思考" />
       <recent name="$PROJECT_DIR$/public/assets" />
-      <recent name="$PROJECT_DIR$/source/_posts/asset" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/charles手机端捕获数据" />
+      <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -108,6 +108,9 @@
       <workItem from="1626142885235" duration="6330000" />
       <workItem from="1627264429641" duration="9806000" />
       <workItem from="1629040128137" duration="839000" />
+      <workItem from="1631586958913" duration="1252000" />
+      <workItem from="1631870698764" duration="2540000" />
+      <workItem from="1633671532066" duration="2737000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -228,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627974963145</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="update article">
+      <created>1630495623180</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1630495623180</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +255,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/site" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -274,6 +284,10 @@
       <screen x="0" y="23" width="1920" height="1011" />
     </state>
     <state x="629" y="236" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1011@0.23.1920.1011" timestamp="1629083590511" />
+    <state x="653" y="262" width="615" height="490" key="find.popup" timestamp="1633673442109">
+      <screen x="0" y="23" width="1920" height="1018" />
+    </state>
+    <state x="653" y="262" width="615" height="490" key="find.popup/-1920.23.1920.1057/0.23.1920.1018@0.23.1920.1018" timestamp="1633673442109" />
     <state x="686" y="415" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1629178978372">
       <screen x="0" y="23" width="1920" height="1008" />
     </state>
