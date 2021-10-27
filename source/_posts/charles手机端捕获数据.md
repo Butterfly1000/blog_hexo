@@ -28,3 +28,9 @@ tags: 工具推荐
 要想postman请求走charles，那么需要手动在postman设置代理，如下图
 
 ![](charles手机端捕获数据/1.png)
+
+> Charles Android 抓包失败(未实践，因为内部有专门可捕捉包)
+
+[app抓不到包之将证书安装到系统证书中](https://blog.csdn.net/x2584179909/article/details/108376220)
+
+[Charles Android 抓包失败SSLHandshake: Received fatal alert: certificate_unknown](https://blog.csdn.net/mrxiagc/article/details/75329629)
