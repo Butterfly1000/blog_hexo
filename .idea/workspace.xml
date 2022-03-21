@@ -128,7 +128,7 @@
       <workItem from="1633671532066" duration="6796000" />
       <workItem from="1634105587143" duration="6844000" />
       <workItem from="1636337147040" duration="2252000" />
-      <workItem from="1646803983995" duration="2977000" />
+      <workItem from="1646803983995" duration="3594000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -305,7 +305,21 @@
       <option name="project" value="LOCAL" />
       <updated>1637753942904</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update article">
+      <created>1647406822433</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1647406822433</updated>
+    </task>
+    <task id="LOCAL-00027" summary="update article">
+      <created>1647406839140</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1647406839140</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,30 +357,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="update article" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="231" y="94" key="MergeDialog" timestamp="1637753849631">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="2433" y="257" key="Vcs.Push.Dialog.v2" timestamp="1647406844129">
+      <screen x="1920" y="23" width="1920" height="1029" />
     </state>
-    <state x="231" y="94" key="MergeDialog/0.23.1920.1057/1920.23.1920.1013@0.23.1920.1057" timestamp="1637753849631" />
-    <state x="636" y="296" key="MultipleFileMergeDialog" timestamp="1637753849785">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="636" y="296" key="MultipleFileMergeDialog/0.23.1920.1057/1920.23.1920.1013@0.23.1920.1057" timestamp="1637753849785" />
-    <state x="629" y="245" key="Vcs.Push.Dialog.v2" timestamp="1637753951164">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="629" y="236" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1013@0.23.1920.1013" timestamp="1633775163540" />
-    <state x="629" y="237" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1016@0.23.1920.1016" timestamp="1633675010267" />
-    <state x="629" y="245" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1014@0.23.1920.1057" timestamp="1637753951164" />
+    <state x="2433" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1647406844129" />
     <state x="2573" y="263" width="615" height="495" key="find.popup" timestamp="1644983489150">
       <screen x="1920" y="23" width="1920" height="1024" />
     </state>
-    <state x="653" y="262" width="615" height="490" key="find.popup/-1920.23.1920.1057/0.23.1920.1018@0.23.1920.1018" timestamp="1633673442109" />
-    <state x="2573" y="261" width="615" height="490" key="find.popup/0.23.1920.1057/1920.23.1920.1014@1920.23.1920.1014" timestamp="1637754565431" />
     <state x="2573" y="263" width="615" height="495" key="find.popup/0.23.1920.1057/1920.23.1920.1024@1920.23.1920.1024" timestamp="1644983489150" />
-    <state x="686" y="417" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1633747682768">
-      <screen x="0" y="23" width="1920" height="1013" />
-    </state>
-    <state x="686" y="415" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1920.23.1920.1057/0.23.1920.1008@0.23.1920.1008" timestamp="1629178978372" />
-    <state x="686" y="417" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1920.23.1920.1057/0.23.1920.1013@0.23.1920.1013" timestamp="1633747682768" />
   </component>
 </project>
