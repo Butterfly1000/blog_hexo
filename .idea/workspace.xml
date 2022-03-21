@@ -26,13 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update article">
-      <change afterPath="$PROJECT_DIR$/source/_posts/zookeeper选举和同步/zk4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/zookeeper选举和同步/zk5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/zookeeper选举.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/zookeeper选举和同步.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/zookeeper选举/zk1.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/zookeeper选举和同步/zk1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/zookeeper选举/zk2.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/zookeeper选举和同步/zk2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/zookeeper选举/zk3.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/zookeeper选举和同步/zk3.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647832838974</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="update article">
+      <created>1647859656177</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1647859656179</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,9 +392,10 @@
       <screen x="1920" y="23" width="1920" height="1029" />
     </state>
     <state x="2065" y="84" key="DiffContextDialog/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1647830317578" />
-    <state x="513" y="263" key="Vcs.Push.Dialog.v2" timestamp="1647832846371">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state x="2433" y="256" key="Vcs.Push.Dialog.v2" timestamp="1647859661137">
+      <screen x="1920" y="23" width="1920" height="1028" />
     </state>
+    <state x="2433" y="256" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1028@1920.23.1920.1028" timestamp="1647859661137" />
     <state x="2433" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1647830327430" />
     <state x="513" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1030@0.23.1920.1057" timestamp="1647832846371" />
     <state x="653" y="271" width="615" height="511" key="find.popup" timestamp="1647832207436">
