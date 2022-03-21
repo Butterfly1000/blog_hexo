@@ -7,6 +7,8 @@ tags: 网络
 
 Zookeeper 是一个分布式服务框架，主要是用来解决分布式应用中遇到的一些数据管理问题如：统一命名服务、状态同步服务、集群管理、分布式应用配置项的管理等。
 
+很多分布式中间件都利用zk来提供分布式一致性协调的特性。dubbo官方推荐使用zk作为注册中心，zk也是hadoop和Hbase的重要组件。其他知名的开源中间件中也都出现了zk的身影。
+
 ## 选举
 
 **注意如果 Zookeeper 是单机部署是不需要选举的，集群模式下才需要选举。**
@@ -49,7 +51,7 @@ zxid 的全称是 ZooKeeper Transaction Id，即 Zookeeper 事务id。
 
 假设一个 Zookeeper 集群中有5台服务器，id从1到5编号，并且它们都是最新启动的，没有历史数据。
 
-![](zookeeper选举/zk1.png)
+![](zookeeper选举和同步/zk1.png)
 
 集群刚启动选举过程
 
@@ -99,7 +101,7 @@ zxid 的全称是 ZooKeeper Transaction Id，即 Zookeeper 事务id。
 
 初始状态下服务器3当选为Leader，假设现在服务器3故障宕机了，此时每个服务器上zxid可能都不一样，server1为99，server2为102，server4为100，server5为101
 
-![](zookeeper选举/zk2.png)
+![](zookeeper选举和同步/zk2.png)
 
 集群 Leader 节点故障运行期选举与初始状态投票过程基本类似，大致可以分为以下几个步骤：
 
@@ -113,7 +115,7 @@ zxid 的全称是 ZooKeeper Transaction Id，即 Zookeeper 事务id。
 
 （5）改变服务器的状态，宣布当选。
 
-![](zookeeper选举/zk3.png)
+![](zookeeper选举和同步/zk3.png)
 
 运行器 Leader 故障后选举流程
 
@@ -161,3 +163,41 @@ LEADING，领导者状态。
 ## 具体可以看下面原文章:
 
 [**用大白话给你解释Zookeeper的选举机制**](https://baijiahao.baidu.com/s?id=1685254558927619982&wfr=spider&for=pc)
+
+## Zookeeper的同步机制
+
+zookeeper的数据同步是为了保证每个节点的数据一致性，大致分为2个流程，一个是正常的客户端数据提交流程，二是集群中某个节点宕机后数据恢复流程。
+
+> 正常客户端数据提交流程
+
+客户端写入数据提交流程大致为：leader接受到客户端的写请求，然后同步给各个子节点：
+
+![](zookeeper选举和同步/zk4.png)
+
+但是有童鞋就产生疑惑了，客户端一般连接的是所有节点，客户端并不知道哪个是leader呀。
+
+的确，客户端会和所有的节点建立链接，并且发起写入请求是挨个遍历节点进行的，比如第一次是节点1，第二次是节点2。以此类推。
+
+如果客户端正好链接的节点的角色是leader，那就按照上面的流程走。那如果链接的节点不是leader，是follower呢，则有以下流程：
+
+![](zookeeper选举和同步/zk5.png)
+
+如果Client选择链接的节点是Follower的话，这个Follower会把请求转给当前Leader，然后Leader会走蓝色的线把请求广播给所有的Follower，每个节点同步完数据后会走绿色的线告诉Leader数据已经同步完成（但是还未提交），当Leader收到半数以上的节点ACK确认消息后，那么Leader就认为这个数据可以提交了，会广播给所有的Follower节点，所有的节点就可以提交数据。整个同步工作就结束了。
+
+> 那我们再来说说节点宕机后的数据同步流程
+
+当zookeeper集群中的Leader宕机后，会触发新的选举，选举期间，整个集群是没法对外提供服务的。直到选出新的Leader之后，才能重新提供服务。
+
+我们重新回到3个节点的例子，zk1，zk2，zk3，其中zk2为Leader，zk1，zk3为Follower，假设zk2宕机后，触发了重新选举，假设zk3的数据更新即ZXID更大，按照选举规则，zk3当选Leader。这时整个集群只整下zk1和zk3，如果这时整个集群又创建了一个节点数据，接着zk2重启。这时zk2的数据肯定比z1和z3要旧，那这时该如何同步数据呢。
+
+zookeeper是通过ZXID事务ID来确认的，ZXID是一个长度为64位的数字，其中低32位是按照数字来递增，任何数据的变更都会导致低32位数字简单加1。高32位是leader周期编号，每当选举出一个新的Leader时，新的Leader就从本地事务日志中取出ZXID，然后解析出高32位的周期编号，进行加1，再将低32位的全部设置为0。这样就保证了每次选举新的Leader后，保证了ZXID的唯一性而且是保证递增的。
+
+如果Leader宕机之后，再重启后，会去和目前的Leader去比较最新的ZXID，如果节点的ZXID比最新Leader里的ZXID要小，那么就会去同步数据。
+
+再提及一下选举问题，zk的选举过程会优先考虑ZXID大的节点，这时如果zk1和zk3的ZXID一样大，选举只会在这2个节点中产生，根据之前说的选举规则。在第一轮投票的时候，zk1只要获得1票，就能达到半数了，就能顺利当选为Leader了。
+
+## 具体可以看下面原文章:
+
+[Zookeeper的选举机制和同步机制超详细讲解，面试经常问到！](https://www.cnblogs.com/bryan31/p/15378629.html)
+
+附：[Nginx+Docker在一台服务器上模拟实现负载均衡](http://www.pangxieke.com/share/use-docker-and-nginx-implement-load-balancing-on-one-service.html)
