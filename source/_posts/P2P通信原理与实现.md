@@ -49,7 +49,7 @@ Nat的类型分为**基本NAT(Basic NAT)** 和 **网络地址-端口转换器(NA
 
 到目前为止最常见的即为NAPT,其检测并修改出入数据包的**IP地址和端口号**,从而允许多个内网主机同时共享一个公网IP地址.
 
-1. 全锥形NAT(Full Cone NAT)
+1.全锥形NAT(Full Cone NAT)
 
    初始状态时，Client与Server1、Client与Server2都没有通讯过。
 
@@ -69,8 +69,7 @@ Nat的类型分为**基本NAT(Basic NAT)** 和 **网络地址-端口转换器(NA
 注：这边的关键点是client主机的内网和公网的IP和端口的对应。
 
 
-
-2. 受限锥形NAT(Restricted Cone NAT)
+2.受限锥形NAT(Restricted Cone NAT)
 
    初始状态时，Client与Server1、Client与Server2都没有通讯过。
 
@@ -85,7 +84,7 @@ Nat的类型分为**基本NAT(Basic NAT)** 和 **网络地址-端口转换器(NA
 
    但是Server2主机无法与Client主机进行通讯。因为Client从来没有和Server2通信过，NAT将拒绝Server2试图与Client连接的动作。
 
-3. 端口受限锥形NAT(Port-Restricted Cone NAT)
+3.端口受限锥形NAT(Port-Restricted Cone NAT)
 
   端口受限锥形NAT也类似,只当外部数据包的**IP地址和端口号都匹**配内网主机发送过的地址和端口号时才进行转发。
 
@@ -101,7 +100,7 @@ Nat的类型分为**基本NAT(Basic NAT)** 和 **网络地址-端口转换器(NA
 ​		并且Server1也只能用它的210.15.27.166:80与Client的192.168.1.5:5000通信，因为Client也从来没有和Server1的**其他端口**通信过。
 ​       备注：家用路由器大部分都属于端口受限圆锥型NAT。
 
-4. 对称NAT(Symmetric NAT)
+4.对称NAT(Symmetric NAT)
 
 对称NAT正好相反,不在所有公网-内网对的会话中维持一个固定的端口绑定. 其为每个新的会话开辟一个新的端口。
 

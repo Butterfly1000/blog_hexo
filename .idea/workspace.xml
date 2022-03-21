@@ -27,6 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update article">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/P2P通信原理与实现.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/P2P通信原理与实现.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,11 +306,28 @@
       <option name="project" value="LOCAL" />
       <updated>1637753942904</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="update article">
+      <created>1647601258422</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1647601258422</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -341,32 +359,5 @@
     <MESSAGE value="update" />
     <MESSAGE value="update article" />
     <option name="LAST_COMMIT_MESSAGE" value="update article" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="231" y="94" key="MergeDialog" timestamp="1637753849631">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="231" y="94" key="MergeDialog/0.23.1920.1057/1920.23.1920.1013@0.23.1920.1057" timestamp="1637753849631" />
-    <state x="636" y="296" key="MultipleFileMergeDialog" timestamp="1637753849785">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="636" y="296" key="MultipleFileMergeDialog/0.23.1920.1057/1920.23.1920.1013@0.23.1920.1057" timestamp="1637753849785" />
-    <state x="629" y="245" key="Vcs.Push.Dialog.v2" timestamp="1637753951164">
-      <screen x="0" y="23" width="1920" height="1057" />
-    </state>
-    <state x="629" y="236" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1013@0.23.1920.1013" timestamp="1633775163540" />
-    <state x="629" y="237" key="Vcs.Push.Dialog.v2/-1920.23.1920.1057/0.23.1920.1016@0.23.1920.1016" timestamp="1633675010267" />
-    <state x="629" y="245" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1014@0.23.1920.1057" timestamp="1637753951164" />
-    <state x="2573" y="263" width="615" height="495" key="find.popup" timestamp="1644983489150">
-      <screen x="1920" y="23" width="1920" height="1024" />
-    </state>
-    <state x="653" y="262" width="615" height="490" key="find.popup/-1920.23.1920.1057/0.23.1920.1018@0.23.1920.1018" timestamp="1633673442109" />
-    <state x="2573" y="261" width="615" height="490" key="find.popup/0.23.1920.1057/1920.23.1920.1014@1920.23.1920.1014" timestamp="1637754565431" />
-    <state x="2573" y="263" width="615" height="495" key="find.popup/0.23.1920.1057/1920.23.1920.1024@1920.23.1920.1024" timestamp="1644983489150" />
-    <state x="686" y="417" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1633747682768">
-      <screen x="0" y="23" width="1920" height="1013" />
-    </state>
-    <state x="686" y="415" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1920.23.1920.1057/0.23.1920.1008@0.23.1920.1008" timestamp="1629178978372" />
-    <state x="686" y="417" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/-1920.23.1920.1057/0.23.1920.1013@0.23.1920.1013" timestamp="1633747682768" />
   </component>
 </project>
