@@ -382,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648040886968</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="update article">
+      <created>1648109894383</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1648109894384</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,11 +441,11 @@
       <screen x="1920" y="23" width="1920" height="1029" />
     </state>
     <state x="2065" y="84" key="DiffContextDialog/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1647830317578" />
-    <state x="2433" y="257" key="Vcs.Push.Dialog.v2" timestamp="1648040890586">
+    <state x="2433" y="257" key="Vcs.Push.Dialog.v2" timestamp="1648109960594">
       <screen x="1920" y="23" width="1920" height="1029" />
     </state>
     <state x="2433" y="256" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1028@1920.23.1920.1028" timestamp="1647861454661" />
-    <state x="2433" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1648040890586" />
+    <state x="2433" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1648109960594" />
     <state x="513" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1030@0.23.1920.1057" timestamp="1647832846371" />
     <state x="2573" y="264" width="615" height="498" key="find.popup" timestamp="1648014093504">
       <screen x="1920" y="23" width="1920" height="1029" />
