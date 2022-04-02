@@ -1,7 +1,7 @@
 ---
 title: Docker-部署gitlab
 date: 2021-10-02 22:16:10
-tags: docker
+tags: Docker
 ---
 
 ### 一、前提条件

@@ -26,7 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update article">
+      <change afterPath="$PROJECT_DIR$/source/_posts/Dockerfile/dkf1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Docker-入门教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker常用操作命令大全.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Docker-入门篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker-入门篇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/MQTT协议是个啥？这篇文章告诉你！" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/Dockerfile" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -63,11 +67,11 @@
       <recent name="$PROJECT_DIR$/public" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/_posts/Dockerfile" />
       <recent name="$PROJECT_DIR$/source/_posts/MQTT协议是个啥？这篇文章告诉你！" />
       <recent name="$PROJECT_DIR$/source/_posts/zookeeper选举和同步" />
       <recent name="$PROJECT_DIR$/source/_posts/zookeeper选举" />
       <recent name="E:\PhpstormProjects\butterfly1000.github.io\source\_posts\Docker-部署gitlab" />
-      <recent name="$PROJECT_DIR$/source/_posts/网络掩码" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -389,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648109894384</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="update article">
+      <created>1648119889324</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1648119889324</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,18 +452,20 @@
       <screen x="1920" y="23" width="1920" height="1029" />
     </state>
     <state x="2065" y="84" key="DiffContextDialog/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1647830317578" />
-    <state x="2433" y="257" key="Vcs.Push.Dialog.v2" timestamp="1648109960594">
+    <state x="2433" y="257" key="Vcs.Push.Dialog.v2" timestamp="1648119941708">
       <screen x="1920" y="23" width="1920" height="1029" />
     </state>
     <state x="2433" y="256" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1028@1920.23.1920.1028" timestamp="1647861454661" />
-    <state x="2433" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1648109960594" />
+    <state x="2433" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1648119941708" />
     <state x="513" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1030@0.23.1920.1057" timestamp="1647832846371" />
-    <state x="2573" y="264" width="615" height="498" key="find.popup" timestamp="1648014093504">
-      <screen x="1920" y="23" width="1920" height="1029" />
+    <state x="2573" y="264" width="615" height="500" key="find.popup" timestamp="1648879408637">
+      <screen x="1920" y="23" width="1920" height="1032" />
     </state>
     <state x="2573" y="263" width="615" height="495" key="find.popup/0.23.1920.1057/1920.23.1920.1024@1920.23.1920.1024" timestamp="1644983489150" />
     <state x="2573" y="264" width="615" height="498" key="find.popup/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1648014093504" />
     <state x="653" y="271" width="615" height="511" key="find.popup/0.23.1920.1057/1920.23.1920.1030@0.23.1920.1057" timestamp="1647832207436" />
+    <state x="2573" y="264" width="615" height="499" key="find.popup/0.23.1920.1057/1920.23.1920.1030@1920.23.1920.1030" timestamp="1648721523353" />
+    <state x="2573" y="264" width="615" height="500" key="find.popup/0.23.1920.1057/1920.23.1920.1032@1920.23.1920.1032" timestamp="1648879408637" />
     <state x="643" y="447" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1647832981262">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>

@@ -1,7 +1,7 @@
 ---
 title: Docker入门教程
 date: 2021-10-02 21:39:41
-tags: docker
+tags: Docker
 ---
 
 ## 安装Docker
@@ -187,3 +187,6 @@ $ sudo service docker restart
 https://hub.fastgit.org/
 ```
 
+**原文链接：**
+
+[Docker 入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
