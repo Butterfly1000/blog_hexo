@@ -26,11 +26,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="936a780b-8c8d-4263-88a3-e17a8916f388" name="Default Changelist" comment="update article">
-      <change afterPath="$PROJECT_DIR$/source/_posts/Dockerfile/dkf1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Docker-入门教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker常用操作命令大全.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Docker-入门篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker-入门篇.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker-部署gitlab.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Dockerfile.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Dockerfile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/扩展管理工具composer.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/扩展管理工具composer.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/_posts/Dockerfile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
@@ -133,6 +131,8 @@
       <workItem from="1634105587143" duration="6844000" />
       <workItem from="1636337147040" duration="2252000" />
       <workItem from="1646803983995" duration="3594000" />
+      <workItem from="1651808423900" duration="3971000" />
+      <workItem from="1652926060070" duration="843000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -400,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648119889324</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="update article">
+      <created>1648879642011</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1648879642011</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,16 +459,18 @@
       <screen x="1920" y="23" width="1920" height="1029" />
     </state>
     <state x="2065" y="84" key="DiffContextDialog/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1647830317578" />
-    <state x="2433" y="257" key="Vcs.Push.Dialog.v2" timestamp="1648119941708">
-      <screen x="1920" y="23" width="1920" height="1029" />
+    <state x="2433" y="258" key="Vcs.Push.Dialog.v2" timestamp="1648879753435">
+      <screen x="1920" y="23" width="1920" height="1032" />
     </state>
     <state x="2433" y="256" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1028@1920.23.1920.1028" timestamp="1647861454661" />
     <state x="2433" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1648119941708" />
     <state x="513" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1030@0.23.1920.1057" timestamp="1647832846371" />
-    <state x="2573" y="264" width="615" height="500" key="find.popup" timestamp="1648879408637">
-      <screen x="1920" y="23" width="1920" height="1032" />
+    <state x="2433" y="258" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1032@1920.23.1920.1032" timestamp="1648879753435" />
+    <state x="2573" y="263" width="615" height="498" key="find.popup" timestamp="1651808513764">
+      <screen x="1920" y="23" width="1920" height="1027" />
     </state>
     <state x="2573" y="263" width="615" height="495" key="find.popup/0.23.1920.1057/1920.23.1920.1024@1920.23.1920.1024" timestamp="1644983489150" />
+    <state x="2573" y="263" width="615" height="498" key="find.popup/0.23.1920.1057/1920.23.1920.1027@1920.23.1920.1027" timestamp="1651808513764" />
     <state x="2573" y="264" width="615" height="498" key="find.popup/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1648014093504" />
     <state x="653" y="271" width="615" height="511" key="find.popup/0.23.1920.1057/1920.23.1920.1030@0.23.1920.1057" timestamp="1647832207436" />
     <state x="2573" y="264" width="615" height="499" key="find.popup/0.23.1920.1057/1920.23.1920.1030@1920.23.1920.1030" timestamp="1648721523353" />

@@ -3,8 +3,6 @@ title: Dockerfile
 date: 2022-04-02 14:00:12
 tags: Docker
 ---
-# Dockerfile
-
 Dockerfile是Docker中用来**自动化构建**镜像的**配置文件**，在Dockerfile中，包含了构建镜像过程中需要执行的**命令、参数以及其他操作**，并且支持以`#`开头的注释行。
 
 Dockerfile结构大致分为四部分：
