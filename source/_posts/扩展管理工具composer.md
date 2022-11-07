@@ -222,8 +222,6 @@ composer require hashids/hashids:2.0.4
 composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/
 ```
 
-
-
 > **添加-vvv选项**
 
 这样就知道compose这个家伙到底啥情况了。

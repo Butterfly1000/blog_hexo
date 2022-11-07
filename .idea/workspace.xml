@@ -37,7 +37,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/yilia" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1oyTW2qSdJgGdmID964SzjGINP1" />
@@ -134,7 +134,7 @@
       <workItem from="1654845353070" duration="3785000" />
       <workItem from="1658712686393" duration="468000" />
       <workItem from="1660023649827" duration="1028000" />
-      <workItem from="1661319624632" duration="1007000" />
+      <workItem from="1661319624632" duration="4079000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1614762507390</created>
@@ -416,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654844573032</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="update article">
+      <created>1664349240578</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1664349240578</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,30 +471,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="update article" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2065" y="84" key="DiffContextDialog" timestamp="1647830317578">
-      <screen x="1920" y="23" width="1920" height="1029" />
+    <state x="2089" y="86" key="DiffContextDialog" timestamp="1667552430178">
+      <screen x="1920" y="23" width="1920" height="1024" />
     </state>
-    <state x="2065" y="84" key="DiffContextDialog/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1647830317578" />
-    <state x="2433" y="258" key="Vcs.Push.Dialog.v2" timestamp="1648879753435">
-      <screen x="1920" y="23" width="1920" height="1032" />
+    <state x="2089" y="86" key="DiffContextDialog/0.23.1920.1057/1920.23.1920.1019@1920.23.1920.1019" timestamp="1664349256800" />
+    <state x="2089" y="86" key="DiffContextDialog/0.23.1920.1057/1920.23.1920.1024@1920.23.1920.1024" timestamp="1667552430178" />
+    <state x="2457" y="260" key="Vcs.Push.Dialog.v2" timestamp="1667552544770">
+      <screen x="1920" y="23" width="1920" height="1024" />
     </state>
-    <state x="2433" y="256" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1028@1920.23.1920.1028" timestamp="1647861454661" />
-    <state x="2433" y="257" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1648119941708" />
-    <state x="513" y="263" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1030@0.23.1920.1057" timestamp="1647832846371" />
-    <state x="2433" y="258" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1032@1920.23.1920.1032" timestamp="1648879753435" />
-    <state x="2573" y="263" width="615" height="498" key="find.popup" timestamp="1651808513764">
-      <screen x="1920" y="23" width="1920" height="1027" />
-    </state>
-    <state x="2573" y="263" width="615" height="495" key="find.popup/0.23.1920.1057/1920.23.1920.1024@1920.23.1920.1024" timestamp="1644983489150" />
-    <state x="2573" y="263" width="615" height="498" key="find.popup/0.23.1920.1057/1920.23.1920.1027@1920.23.1920.1027" timestamp="1651808513764" />
-    <state x="2573" y="264" width="615" height="498" key="find.popup/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1648014093504" />
-    <state x="653" y="271" width="615" height="511" key="find.popup/0.23.1920.1057/1920.23.1920.1030@0.23.1920.1057" timestamp="1647832207436" />
-    <state x="2573" y="264" width="615" height="499" key="find.popup/0.23.1920.1057/1920.23.1920.1030@1920.23.1920.1030" timestamp="1648721523353" />
-    <state x="2573" y="264" width="615" height="500" key="find.popup/0.23.1920.1057/1920.23.1920.1032@1920.23.1920.1032" timestamp="1648879408637" />
-    <state x="643" y="447" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1647832981262">
+    <state x="2457" y="259" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1018@1920.23.1920.1018" timestamp="1664350884950" />
+    <state x="2457" y="259" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1019@1920.23.1920.1019" timestamp="1664349365588" />
+    <state x="2457" y="260" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.23.1920.1024@1920.23.1920.1024" timestamp="1667552544770" />
+    <state x="694" y="297" width="615" height="490" key="find.popup" timestamp="1667792462385">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="2563" y="436" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1920.1057/1920.23.1920.1029@1920.23.1920.1029" timestamp="1647831576777" />
-    <state x="643" y="447" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1920.1057/1920.23.1920.1030@0.23.1920.1057" timestamp="1647832981262" />
+    <state x="694" y="297" width="615" height="490" key="find.popup/0.23.1920.1057/1920.23.1920.1024@0.23.1920.1057" timestamp="1667792462385" />
   </component>
 </project>
