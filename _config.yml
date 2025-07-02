@@ -124,3 +124,72 @@ jsonContent:
     excerpt: false
     categories: false
     tags: true
+
+# theme_config for yilia
+theme_config:
+  menu:
+    主页: /
+    随笔: /tags/随笔/
+    知识点: /tags/知识点/
+    mysql: /tags/mysql/
+    GO: /tags/GO/
+    GO入门: /tags/GO入门/
+    Redis: /tags/Redis/
+    网络: /tags/网络/
+    gopush: /tags/gopush/
+    Docker: /tags/Docker/
+    MQTT: /tags/MQTT/
+    优化案例: /tags/优化案例/
+    工具推荐: /tags/工具推荐/
+    细节: /tags/细节/
+  subnav:
+    github: "#"
+    weibo: "#"
+    rss: "#"
+    zhihu: "#"
+  rss: /atom.xml
+  root: /
+  excerpt_link: more
+  show_all_link: '展开全文'
+  mathjax: false
+  open_in_new: false
+  reward_type: 2
+  reward_wording: '谢谢你请我吃糖果'
+  alipay: 
+  weixin: 
+  toc: 1
+  toc_hide_index: true
+  toc_empty_wording: '目录，不存在的…'
+  top: true
+  baidu_analytics: ''
+  google_analytics: ''
+  favicon: /images/favicon.png
+  avatar:/images/yyzka.jpeg
+  share_jia: true
+  duoshuo: false
+  wangyiyun: false
+  changyan_appid: false
+  changyan_conf: false
+  disqus: false
+  gitment_owner: false
+  gitment_repo: ''
+  gitment_oauth:
+    client_id: ''
+    client_secret: ''
+  style:
+    header: '#4d4d4d'
+    slider: 'linear-gradient(200deg,#a0cfe4,#e8c37e)'
+  slider:
+    showTags: false
+  smart_menu:
+    innerArchive: '所有文章'
+    friends: '友链'
+    aboutme: '关于我'
+  friends:
+    友情链接1: http://localhost:4000/
+    友情链接2: http://localhost:4000/
+    友情链接3: http://localhost:4000/
+    友情链接4: http://localhost:4000/
+    友情链接5: http://localhost:4000/
+    友情链接6: http://localhost:4000/
+  aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
