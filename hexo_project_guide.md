@@ -201,6 +201,7 @@ blog_hexo/
 *   `hexo clean`: 清除缓存文件 (`db.json`) 和已生成的静态文件 (`public`)。
 *   `hexo g`: 生成静态文件到 `public` 目录。
 *   `hexo s`: 启动本地服务器，用于预览。
+*   `hexo new post "深入理解MCP：模型上下文协议"`: 使用“骨架 (scaffold)”模板，自动为您的新文章生成一个包含标题、日期等基础信息的 Markdown 文件。
 
 ---
 

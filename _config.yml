@@ -139,6 +139,7 @@ theme_config:
     gopush: /tags/gopush/
     Docker: /tags/Docker/
     MQTT: /tags/MQTT/
+    MCP: /tags/MCP/
     优化案例: /tags/优化案例/
     工具推荐: /tags/工具推荐/
     细节: /tags/细节/
@@ -164,7 +165,7 @@ theme_config:
   baidu_analytics: ''
   google_analytics: ''
   favicon: /images/favicon.png
-  avatar:/images/yyzka.jpeg
+  avatar: /images/yyzka.jpeg
   share_jia: true
   duoshuo: false
   wangyiyun: false
